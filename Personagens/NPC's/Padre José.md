@@ -23,7 +23,7 @@ José Mendes é o padre oficial da igreja de Garcia, que é o ponto de encontro 
 
 O quarto do padre, localizado na igreja, está quase sempre **trancado**. Este quarto esconde símbolos gravados na porta e nas paredes, que são pistas importantes para os mistérios que envolvem o padre. À noite, há sinais de que **algo ou alguém** sai do quarto, levantando suspeitas sobre o que realmente acontece ali.
 
-Estes **símbolos** podem ser combinados com certos objetos encontrados na floresta, sugerindo que o padre mantém uma ligação direta com as entidades sobrenaturais que rondam a vila. Os objetos (amuletos ou sinais nas árvores) revelam uma conexão mais profunda entre o padre e o lado oculto da floresta, que ele tenta ocultar dos habitantes.
+Estes **símbolos** podem ser combinados com certos objetos encontrados na [[floresta]], sugerindo que o padre mantém uma ligação direta com as entidades sobrenaturais que rondam a vila. Os objetos (amuletos ou sinais nas árvores) revelam uma conexão mais profunda entre o padre e o lado oculto da [[floresta]], que ele tenta ocultar dos habitantes.
 
 ### **Controle dos Superiores**
 
