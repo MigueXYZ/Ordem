@@ -5,6 +5,6 @@ Neste momento estão em busca do [[Aurora Rubio]] para a capturar e trazer um ar
 A empresa Crepúsculo é algo legítimo mas usado para manter o culto em segredo.
 Tanto que ambos têm símbolos distintos.
 
-<span style=" font-family:'Sigilos' "> Vigilantes do Crepusculo</span>
+<span style=" font-family:'Sigilos' "> Crepusculo</span>
 ![[logo.svg]]
 ![[Crepúsculo.png]]
