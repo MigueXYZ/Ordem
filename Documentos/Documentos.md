@@ -13,3 +13,4 @@
 | Chi Rho         | [[Labarum.png]]               | 8     |
 | omega           | **Ω**                         | 9     |
 
+![[Livro_do_alfabeto.png]]

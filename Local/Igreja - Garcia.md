@@ -7,3 +7,4 @@ A sala do padre fica debaixo do chão da sala do coro por debaixo de um alçapã
 Durante a noite velas vermelhas acendem e não se estinguem por nada.
 
 - depois do primeiro puzzle ser resolvido um existido pode vagar pela igreja durante a noite
+
