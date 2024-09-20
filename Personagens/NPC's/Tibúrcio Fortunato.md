@@ -1,0 +1,1 @@
+O líder dos Vigilantes do [[Crepúsculo]], um marcado, tem pesquisado por anos sem fim o como de trazer a divindade para a nossa realidade, sendo ele mesmo um ocultista bem forte
