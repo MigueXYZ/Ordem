@@ -17,7 +17,7 @@ Enigma: O relógio da torre da igreja de Garcia tem um comportamento peculiar e 
 
 Solução: Investigar a igreja durante a noite revela um compartimento oculto dentro da torre do relógio, acessível apenas através de um mecanismo secreto. Esse mecanismo requer uma combinação específica de números, aparentemente ligados aos desaparecimentos que ocorreram na vila ao longo dos anos. Cada número da combinação corresponde ao ano de um desaparecimento misterioso de um habitante, e apenas juntando todas as datas corretamente o mecanismo é ativado.  
 
-0 9 1 2
+0 9 1 2 2 4
 dia e mês do próximo desaparecimento
 
 caso investigado a lista importante qualquer ocultista sente uma presença do outro lado nessa data
